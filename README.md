@@ -9,7 +9,6 @@
 
 - 📫 How to connect with me **bhumik.bm123@gmail.com**
 
-- 📄 Know about my resume [https://drive.google.com/file/d/1gzjc7S5yegKaZz2wz5BREHBgt1aWQDsr/view?usp=sharing](https://drive.google.com/file/d/1gzjc7S5yegKaZz2wz5BREHBgt1aWQDsr/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
